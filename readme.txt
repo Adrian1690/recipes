@@ -1,1 +1,1 @@
-sin acceso a ssh
+sin acceso a ssdh
